@@ -6472,6 +6472,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Identity.Web >= 1.9.1",
       "Microsoft.Identity.Web.MicrosoftGraphBeta >= 1.9.1",
       "Microsoft.IdentityModel.Clients.ActiveDirectory >= 5.2.9",
       "Microsoft.OpenApi >= 1.2.3"
@@ -6514,6 +6515,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Microsoft.Identity.Web": {
+            "target": "Package",
+            "version": "[1.9.1, )"
+          },
           "Microsoft.Identity.Web.MicrosoftGraphBeta": {
             "target": "Package",
             "version": "[1.9.1, )"

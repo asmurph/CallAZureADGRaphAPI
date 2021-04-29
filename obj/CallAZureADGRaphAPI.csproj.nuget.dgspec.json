@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.9.1, )"
+            },
             "Microsoft.Identity.Web.MicrosoftGraphBeta": {
               "target": "Package",
               "version": "[1.9.1, )"

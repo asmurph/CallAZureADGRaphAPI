@@ -15,6 +15,9 @@ namespace CallAZureADGRaphAPI.Controllers
     [Route("directory")]
     public class GraphAPIController : ControllerBase
     {
+       
+
+       
         internal static class RouteNames
         {
             public const string Users = nameof(Users);

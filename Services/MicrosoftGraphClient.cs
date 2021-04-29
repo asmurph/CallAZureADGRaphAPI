@@ -7,7 +7,7 @@ using Microsoft.Graph;
 using Microsoft.IdentityModel.Clients.ActiveDirectory;
 using CallAZureADGRaphAPI.Models;
 using System.Net.Http.Headers;
-
+using Microsoft.Identity.Web;
 
 namespace CallAZureADGRaphAPI.Services
 {
@@ -24,6 +24,8 @@ namespace CallAZureADGRaphAPI.Services
         private static string graphAPIEndpoint;
         private static string authority;
 
+       
+       
         static MicrosoftGraphClient()
         {
             configuration = new ConfigurationBuilder()
@@ -77,5 +79,6 @@ namespace CallAZureADGRaphAPI.Services
 
             return delegateAuthProvider;
         }
+
     }
 }

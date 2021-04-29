@@ -40,9 +40,6 @@ C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\CallA
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\CallAZureADGRaphAPI.dll
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\CallAZureADGRaphAPI.pdb
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.csproj.CoreCompileInputs.cache
-C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.dll
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.pdb
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.genruntimeconfig.cache
