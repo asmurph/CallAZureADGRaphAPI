@@ -2,7 +2,6 @@ C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\appse
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\CallAZureADGRaphAPI.exe
-C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.csprojAssemblyReference.cache
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.AssemblyInfoInputs.cache
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.AssemblyInfo.cs
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.RazorTargetAssemblyInfo.cache
@@ -43,3 +42,11 @@ C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Micro
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.dll
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.pdb
 C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.genruntimeconfig.cache
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\CallAZureADGRaphAPI20210429072831 - Web Deploy\profile.arm.json
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anthonhy\source\repos\CallAZureADGRaphAPI\obj\Debug\netcoreapp3.1\CallAZureADGRaphAPI.csprojAssemblyReference.cache

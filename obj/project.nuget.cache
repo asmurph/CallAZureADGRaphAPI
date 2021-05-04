@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I0pQT0LC4dKLTD4BQ1mFHB3wjX0VRGQtzB232wnVPWBf7uNRwWN67qWIJe4Ll5HMe0uCRBhJfleJxoMW1lb6MQ==",
+  "dgSpecHash": "JCpnPhtM8xm6nS9J2tOrFcMWjtAJtwl3H5fhrqmiqGr0MWv+2kk/3yakwg16ygQqGP1Fj6ryQad/7AU8Acr+Og==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anthonhy\\source\\repos\\CallAZureADGRaphAPI\\CallAZureADGRaphAPI.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.8\\microsoft.aspnetcore.authentication.openidconnect.3.1.8.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.graph.beta\\0.41.0-preview\\microsoft.graph.beta.0.41.0-preview.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.graph.core\\1.24.0\\microsoft.graph.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\microsoft.identity.client\\4.29.0\\microsoft.identity.client.4.29.0.nupkg.sha512",
@@ -46,6 +47,10 @@
     "C:\\Users\\Anthonhy\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
+    "C:\\Users\\Anthonhy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Anthonhy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Anthonhy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Anthonhy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Anthonhy\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

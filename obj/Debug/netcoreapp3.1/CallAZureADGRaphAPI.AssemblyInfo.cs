@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a547a1c3-5f5c-4309-890b-bc1f3e03ec6d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallAZureADGRaphAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
